@@ -1,0 +1,128 @@
+body {
+    empty-cells: hide;
+    background-color:#E5CFF7;
+}
+
+table {
+    border-radius: 3px;
+    border: 2px solid #ADA2FF;
+    box-shadow: 6px 6px 6px;
+}
+
+.box0 {
+    background-color: #9195F6;
+    border-radius: 5px;
+    border: 1px solid #AD88C6;
+    box-shadow: 2px 2px 2px;
+    font-weight: bold;
+}
+
+.box1 {
+    background-color: #FFD93D;
+    color: #C07F00;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.box1:hover {
+    transform: scale(2);
+}    
+
+.box2 {
+    background-color:#f77a54;
+    color: #7D0A0A;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.box2:hover {
+    transform: scale(2);
+}
+
+.box3 {
+    background-color: #6bdeed;
+    color: #017c8c;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.box3:hover {
+    transform: scale(2);
+}
+
+.box4 {
+    background-color: #cf6db8;
+    color: #4d023b;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.box4:hover {
+    transform: scale(2);
+}
+
+.box5 {
+    background-color: #fc8b49;
+    color: #ad4000;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.box5:hover {
+    transform: scale(2);
+}
+
+.box6 {
+    background-color: #AD88C6;
+    color: #4d023b;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.box6:hover {
+    transform: scale(2);
+}
+
+.box7 {
+    background-color: #A5DD9B;
+    color: #015210;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.box7:hover {
+    transform: scale(2);
+}
+
+.box8 {
+    background-color: #ff9999;
+    color: #db1835;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.box8:hover {
+    transform: scale(2);
+}
+
+.box9 {
+    background-color: #c099ff;
+    color: #582ba1;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.box9:hover {
+    transform: scale(2);
+}
+
+.box10 {
+    background-color: #0af58f;
+    color: #067042;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.box10:hover {
+    transform: scale(2);
+}
